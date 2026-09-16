@@ -1,8 +1,10 @@
 2026/09/16 14:36:11
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: bribri0775@yahoo.com, pmridley@yahoo.com
-At: 2026-09-16 14:37:09
-Id: WmibAp5Y
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: lix8@duq.edu, rick_duhrkopf@baylor.edu
+At: 2026-09-16 14:37:48
+Id: yTZd28P4
